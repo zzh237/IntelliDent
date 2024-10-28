@@ -16,7 +16,12 @@
 
 To see IntelliDent in action, watch the video demo below:
 
-[![Project Video](https://img.youtube.com/vi/SOT-ipgG2Og/0.jpg)](https://www.youtube.com/watch?v=SOT-ipgG2Og)
+
+<video width="640" height="360" controls>
+  <source src="media/display.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 
 ---
