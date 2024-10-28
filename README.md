@@ -16,7 +16,11 @@
 
 To see IntelliDent in action, watch the video demo below:
 
-[![Project Video](https://img.youtube.com/vi/SOT-ipgG2Og/0.jpg)](https://www.youtube.com/watch?v=SOT-ipgG2Og)
+
+[![Watch the video](https://github.com/zzh237/IntelliDent/blob/main/media/thumbnail.png)](https://youtu.be/SOT-ipgG2Og)
+
+
+
 
 
 ---
