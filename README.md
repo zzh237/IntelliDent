@@ -17,7 +17,7 @@
 To see IntelliDent in action, watch the video demo below:
 
 
-<video src="media/IntelliDent_demo.mp4" width="640" height="360" controls></video>
+<video src="https://github.com/zzh237/IntelliDent/raw/main/media/display.mp4" width="640" height="360" controls></video>
 
 
 
