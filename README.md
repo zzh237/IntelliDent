@@ -18,7 +18,8 @@ To see IntelliDent in action, watch the video demo below:
 
 
 
-![IntelliDent Demo](media/display.gif)
+
+![display](https://github.com/user-attachments/assets/36ecca21-8799-4861-987a-fde1cf9eed10)
 
 
 
